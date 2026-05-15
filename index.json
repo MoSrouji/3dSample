@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://cdn.jsdelivr.net/gh/MoSrouji/3dSample@main/models",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/MoSrouji/3dSample@master/models",
   "models": {
     "beating_heart": "HumanBody/open_beating-heart-3d.glb",
     "gear": "Mechanical/gear.glb",
