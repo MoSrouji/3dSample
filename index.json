@@ -1,6 +1,9 @@
 {
-  "baseUrl": "https://cdn.jsdelivr.net/gh/MoSrouji/3dSample@main",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/MoSrouji/3dSample@main/models",
   "models": {
-
+    "beating_heart": "HumanBody/open_beating-heart-3d.glb",
+    "gear": "Mechanical/gear.glb",
+    "vehicle_1": "vehicle/N7W3S4IFZKA836FQQZSX89BDA.glb",
+    "vehicle_2": "vehicle/VUEP8J3WT17Y0KGHXE7ITPGGQ.glb"
   }
 }
