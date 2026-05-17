@@ -3,7 +3,22 @@
   "models": {
     "beating_heart": "HumanBody/open_beating-heart-3d.glb",
     "gear": "Mechanical/gear.glb",
+    "offshore_wind_turbine": "Mechanical/Offshore Wind Turbine Tri Floater V3.glb",
+    "beer": "Animals/Beer.glb",
+    "bisoon": "Animals/Bisoon.glb",
+    "carp": "Animals/Carp.glb",
+    "chameleon": "Animals/Chameleonglb.glb",
+    "cockroach_walk_cycle": "Animals/Cockroach walk-cycle.glb",
+    "crocodile": "Animals/Crocodile.glb",
+    "honey_bee": "Animals/Honey bee.glb",
+    "wasp": "Animals/Wasp.glb",
+    "tiger": "Animals/tiger.glb",
+    "jupiter": "Planets/Jupiter.glb",
+    "sun": "Planets/The Sun.glb",
+    "untitled_planet": "Planets/Untitled.glb",
+    "alh_dhruv_helicopter": "vehicle/ALH Dhruv Helicopter.glb",
     "vehicle_1": "vehicle/N7W3S4IFZKA836FQQZSX89BDA.glb",
+    "police_car": "vehicle/Police Car.glb",
     "vehicle_2": "vehicle/VUEP8J3WT17Y0KGHXE7ITPGGQ.glb"
   }
 }
