@@ -1,0 +1,16 @@
+{
+  "name": "3dsample-thumbnail-generator",
+  "version": "1.0.0",
+  "description": "Generate thumbnails for 3D models from GLB files",
+  "main": "generateThumbnails.js",
+  "scripts": {
+    "generate": "node generateThumbnails.js",
+    "install-deps": "npm install puppeteer"
+  },
+  "keywords": ["3d", "thumbnail", "glb", "three.js"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
